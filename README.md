@@ -2,7 +2,7 @@
 
 This project is an admin dashboard web application built using **React** with **Tailwind CSS** and **Ant Design** for styling and layout. The dashboard includes features such as a sidebar menu that sticks to the right side with full height and a responsive layout for various types of analytics data.
 
-![Admin Dashboard Screenshot](./screenshot.png)
+![Admin Dashboard Screenshot](./src/assets/AdminUI.png)
 
 ## Features
 
