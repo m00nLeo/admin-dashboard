@@ -16,7 +16,7 @@ This project is an admin dashboard web application built using **React** with **
 - **React**: JavaScript library for building the user interface.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Ant Design**: UI component library to enhance UI elements.
-- **TypeScript**: (Optional) If used, add "for static typing."
+- **TypeScript**: for static typing.
 
 ## Installation
 
@@ -32,7 +32,7 @@ To set up the project locally:
 2. **Install dependencies**:
 
     ```bash
-    npm install
+    yarn
     ```
 
 3. **Set up environment variables**:
@@ -42,10 +42,10 @@ To set up the project locally:
 4. **Run the development server**:
 
     ```bash
-    npm start
+    yarn run dev
     ```
 
-    Open [http://localhost:3000](http://localhost:3000) to view the dashboard in the browser.
+    Open `localhost` to view the dashboard in the browser.
 
 ## Usage
 
@@ -77,10 +77,6 @@ To adjust the dashboard layout:
 
 1. Go to `src/components/Dashboard.tsx`.
 2. Modify or add new data visualization components as required.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
