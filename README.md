@@ -18,11 +18,6 @@ This project is an admin dashboard web application built using **React** with **
 - **Ant Design**: UI component library to enhance UI elements.
 - **TypeScript**: (Optional) If used, add "for static typing."
 
-## Project Structure
-
-. ├── src │ ├── components │ │ ├── Sidebar.tsx # Sidebar component │ │ ├── Dashboard.tsx # Main dashboard component │ │ └── ... # Other components │ ├── styles │ │ └── index.css # Custom Tailwind and global styles │ ├── App.tsx # Main application entry │ └── ... ├── public │ ├── index.html # HTML template │ └── ... └── README.md # Project documentation
-
-
 ## Installation
 
 To set up the project locally:
