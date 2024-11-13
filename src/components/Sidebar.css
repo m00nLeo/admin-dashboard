@@ -1,0 +1,25 @@
+/* Customize menu item style */
+
+/* Hover effect for menu items */
+.ant-menu {
+  .ant-menu-item-selected {
+    background-color: inherit;
+    color: #28a41d;
+    font-weight: bold;
+  }
+
+  .ant-menu-item.ant-menu-item-selected {
+    border-radius: 0;
+  }
+
+  .ant-menu-item:hover {
+    background-color: inherit;
+    color: #86c581 !important;
+  }
+
+  .ant-menu-item-selected .ant-menu-title-content a::before {
+    background-color: rgb(240, 240, 34);
+    width: 0.3rem;
+    border-radius: 0;
+  }
+}
